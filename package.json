@@ -5,7 +5,7 @@
   "description": "Node.js docker container",
   "author": "Davide Donattini <davide@studiomado.it>",
   "dependencies": {
-    "socket.io": "1.3.5.",
-    "forever": "0.14.1"
+    "socket.io": "*",
+    "forever": "*"
   }
 }
